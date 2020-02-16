@@ -1,0 +1,97 @@
+#bodytext{
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+}
+
+#Followbutton{
+    padding: 5px, 15px;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 1.5px;
+}
+
+.dclogo{
+    padding-top: 30px;
+    padding-left: 80px;
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+}
+
+.Fheader{
+    text-align: center;
+}
+
+.leftheadline{
+    display: inline-block;
+    width: 1000px;
+    float: left;
+}  
+
+.title{
+    display: inline-block;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+.rightheadline{
+    width: 500px;
+    display: inline;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 56, 56);
+}
+
+.mainhead{
+    display: inline-block;
+}
+
+#blogtitle{
+    font-weight: 100;
+}
+
+.righthandle{
+    font-weight: lighter;
+    display: inline;
+    padding: 10px; 
+}
+
+#rthandle{
+    display: block;
+
+}
+
+#cover{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+#cover2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 0px;
+}
+
+#date{
+    color: rgb(155, 155, 155);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-bottom: 1.5px;
+}
+
+#fbutton{
+    background-color: hsl(216, 72%, 55%);
+    color: white;
+    padding: 5px;
+    width: 175px;
+    height: 26px;
+    text-align: center;
+}
